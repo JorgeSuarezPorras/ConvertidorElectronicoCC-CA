@@ -1,5 +1,8 @@
 # ConvertidorElectronicoCC-CA
-En el presente respositorio se encuentra todos los archivos contenidos en el proyecto: CONTROL DE CORRIENTE EN UN CONVERTIDOR ELECTRONICO CC-CA MEDIANTE MICROCONTROLADOR
+En el presente respositorio se encuentra todos los archivos contenidos en el proyecto: CONTROL DE CORRIENTE EN UN CONVERTIDOR ELECTRONICO CC-CA MEDIANTE MICROCONTROLADOR.
+
+Se recomienda leer la información detallada del proyecto recogida en el archivo: .pdf
+
 
 # Pasos
 Los archivos se encuentran disponibles en la versión Matlab R2019a.
